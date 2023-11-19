@@ -1,0 +1,3 @@
+Setup: https://gameandcode.com/blog/adventcalendar2023/
+
+Before you build don't forget to change the current month to 12 in the prefab Door/Button inspector!
